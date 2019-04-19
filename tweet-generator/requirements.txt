@@ -1,0 +1,9 @@
+google-cloud-pubsub==0.33.0
+Faker==0.8.12
+ratelimit==1.4.1
+tweepy==3.7.0
+json==18.2
+yweather==0.1.1
+numpy==1.13.3
+pandas==0.20.3
+textblob==0.15.2
